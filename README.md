@@ -6,19 +6,19 @@
 
 ###
 
-<h2 align="left">✨About me</h2>
+<h2 align="left">🔭About me</h2>
 
 ###
 
-<p align="left">Junior student at National Taiwan University<br>Work hard, work smart!</p>
+<p align="left">🔭Junior student at National Taiwan University<br>🔭Work hard, work smart!</p>
 
 ###
 
-<h2 align="left">📚Currently Learning</h2>
+<h2 align="left">🌱Currently Learning</h2>
 
 ###
 
-<p align="left">Computer Vision and practical techniques in Deep Learning<br>Self-study Machine Learning on Youtube QQ</p>
+<p align="left">🌱Computer Vision and practical techniques in Deep Learning<br>🌱Self-study Machine Learning on Youtube QQ</p>
 
 ###
 
